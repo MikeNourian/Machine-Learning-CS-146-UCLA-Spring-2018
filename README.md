@@ -4,5 +4,5 @@
 ## Term: Spring 2018
 
 
-##### This repo includes the solution (code and write-ups) for CS M146 (Machine Learning) course at UCLA. The solutions are not intended to be copied, rather students should use the code as a reference. 
+##### This repo includes the solution (code and write-ups) for CS M146 (Machine Learning) course at UCLA. The solutions are not intended to be copied, rather students should use the code as a side-reference or for checking the general approach. 
 
